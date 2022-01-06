@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1640197545 source:e:\fnct\c++\test\main.cpp
+	<iostream>
+	<cmath>
+
